@@ -1,0 +1,25 @@
+I guess there's actually no important reason to read this, you can figure stuff out yourself pretty easily)
+
+Disclaimer: Please don’t expect a better version of Pong, I just had no name ideas.
+
+## How to play
+1. Extract the game zip thingy and open Pong++.exe
+2. Control the left paddle by moving your mouse
+3. Try to get the highest score you can and have fun! :D
+4. The game is pretty much endless*. Don't try to outsmart the AI, you'll fail.
+   Or, in case you somehow manage to outsmart it, please let me know, I'm really curious of how that happend.
+
+*tehnically not because the speed could get too large, but I suppose that at that point the game would be pretty much impossible for a human.
+
+(Maybe don't change the highscore file inside the assets folder, or do, if you're bored)
+
+## Credits
+The font used is PublicPixel and the sounds are from this cool guy:
+https://freesound.org/people/zimbot/
+
+## License
+
+Do whatever you want with this, just inform me I guess.
+(I have no idea what you could even do with this, but feel free to do so)
+
+PS: If you manage to beat my record of 74 points inform me and you'll win the amazing prize of 0 dollars.
